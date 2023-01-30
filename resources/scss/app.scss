@@ -1,0 +1,26 @@
+@import '~bootstrap/scss/bootstrap';
+
+main{
+    height: calc(100vh - 57px);
+    overflow-y: auto;
+}
+
+.main-wrapper{
+    height: calc(100vh - 57px);
+}
+
+.sc-nav-link{
+    color: white;
+    font-size: .9rem;
+    text-decoration: none;
+    &:hover{
+        color: white;
+        text-decoration: underline;
+    }
+}
+
+
+.ck-editor__editable[role="textbox"] {
+    /* editing area */
+    height: 300px;
+}
