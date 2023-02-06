@@ -29,7 +29,7 @@ Curare l'impostazione in vite.config.js per la configurazione del plugin e per l
 - paginazione basata sulla stampa dei link forniti dall'API
 - piccolo motore di ricerca tramite API
 - filtro dei post per categoria o tag
-- invio del form dei contati con validazione tramite API
+- invio del form dei contatti con validazione tramite API
 - transition al cambio pagina con la libreria animate.css
 
 ## note
