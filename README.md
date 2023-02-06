@@ -15,7 +15,7 @@ Curare l'impostazione in vite.config.js per la configurazione del plugin e per l
 ## Lato Backend
 - CRUD
 - gestione multi utente dei post
-- seer che genera  100 post, relazioni random fra fra tag<->post, category<->post e users<->post
+- seeder che genera  100 post, relazioni random fra fra tag<->post, category<->post e users<->post
 - piccolo motore di ricerca 
 - possibilità di ordinare l'elenco dei post per id, titolo o data in maniera crescente o decrescente
 - paginazione
