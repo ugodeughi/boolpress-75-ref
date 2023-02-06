@@ -9,8 +9,11 @@ export default {
 </script>
 
 <template>
-    <h1>contatti</h1>
-    <ContactForm />
+
+    <div  class="inner-container">
+        <h1>contatti</h1>
+        <ContactForm />
+    </div>
 
 </template>
 
