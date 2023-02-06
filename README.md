@@ -34,5 +34,5 @@ Curare l'impostazione in vite.config.js per la configurazione del plugin e per l
 
 ## note
 - lanciare le migrazioni
-- prima di lanciare i seeder creare almeno 2 utenti
+- prima di lanciare i seeder creare almeno 2 utenti tramite il form di registrazione
 - lanciare <code>php artisan db:seed</code> 
